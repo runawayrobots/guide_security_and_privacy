@@ -4,14 +4,14 @@
 
 You can control what your kids have access to on the internet when they are in your house on your network.
 
-It gets significantly more difficult to control when they are outside of your home network's control.
+It gets significantly more difficult to control when they are outside of your home's network.
 
 ### Home internet filtering
 
-[!NOTE]
-This information below is biased for Comcast/Xfinity cable modems. The principles and overall design are applicable but there will be differences if you have DSL, fiberoptic, or Starlink internet providers.
+> [!NOTE]
+> This information below is biased for Comcast/Xfinity cable modems. The principles and overall design are applicable but there will be differences if you have DSL, fiberoptic, or Starlink internet providers.
 
-(NextDNS)[nextdns.io] is a great service what provides easy filtering of the internet. They have broad filter categories that can be selected, including advertisments and malware, while also allowing you to explicityly to add sites to a deny list.
+[NextDNS](nextdns.io) is a great service what provides easy filtering of the internet. They have broad filter categories that can be selected, including advertisments and malware, while also allowing you to explicityly to add sites to a deny list.
 
 To enable filtering on your entire home network you will need to update the DNS configuration of your home internet router to point to the NextDNS servers.
 
@@ -25,8 +25,8 @@ There are three options to get around this:
 2. Purchase an all-in-one modem and router to replace the hardware from your internet provider.
 3. Purchase a home network router and configure the hardware from your internet provider into "bridge mode".
 
-[!IMPORTANT]
-Unfortunaley not using your internet providers provided hardware may disable features provided by your internet provider, such as home security add-ons, since those features depend on the use of there all-in-one unit. If you are using additional services from your internet provider contact their support to check if using one of the options will break.
+> [!IMPORTANT]
+> Unfortunaley not using your internet providers provided hardware may disable features provided by your internet provider, such as home security add-ons, since those features depend on the use of there all-in-one unit. If you are using > > additional services from your internet provider contact their support to check if using one of the options will break.
 
 #### Modem + Router
 
