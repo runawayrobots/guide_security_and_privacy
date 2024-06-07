@@ -43,3 +43,7 @@ This option eliminates the need for leasing your internet providers equipment wh
 Some internet providers modem+router units may be set to be in a "bridge mode". This retains the internet modem funcationaltiy but turns of the home network router features.
 
 There may be downsid
+
+## References
+
+[Netgear Xfinity Compatible Routers](https://kb.netgear.com/000063930/Which-ISPs-are-compatible-with-my-NETGEAR-cable-modem-or-cable-modem-router)
